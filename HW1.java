@@ -7,7 +7,7 @@ import java.util.Random;
  каждый элемент которого равен разности элементов двух входящих массивов в той же ячейке. Если длины массивов не равны,
  необходимо как-то оповестить пользователя.
  */
-public class Main {
+public class HW1 {
 
     public static void main(String[] args) {
 
